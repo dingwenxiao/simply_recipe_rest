@@ -5,6 +5,7 @@ API REST for Sinatra
 
 This is a simple rest api for recipes.
 No database access and assume there is only one record exists:
+
 {id:1, name:'name', instructions:'instructions',ingredients:'ingredients'} 
 
 
